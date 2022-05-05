@@ -50,4 +50,4 @@ boxplot((Tabla_procesada$stays_in_weekend_nights), main = "stays_in_weekend_nigh
 
 verificar_outliers(Tabla_original, c("stays_in_week_nights"))
 boxplot((Tabla_procesada$stays_in_week_nights), main = "stays_in_week_nights sin outliers")
-
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
